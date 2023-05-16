@@ -1,0 +1,35 @@
+body 
+{background-color: peru;}
+nav{
+    background-color: rgb(161, 108, 55);
+    color: burlywood;
+    clear: both;
+    text-align: center;
+    padding: 5px;
+    display: flex;
+}
+    nav ul{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+}
+    nav ul li{
+
+}
+
+#contacto {
+    display: inline-block;
+    background-color: burlywood;
+}
+.cabeza {
+    text-align: center;
+    font-size: 200%;
+    background-color: burlywood;
+
+}
+.info {
+    text-align: center;
+    font-size: 120%;
+    background-color: burlywood;
+}
